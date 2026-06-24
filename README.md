@@ -2,7 +2,7 @@
 
 1. Buka halaman kuesioner SIAM
 2. Tekan F12 dan masuk ke tab console
-3. Paste code di bawah ini
+3. Paste code di bawah ini*
 ```js
 (() => {
   document.querySelectorAll('input[type="radio"][value="5"]')
@@ -23,3 +23,5 @@
 ```
 
 4. Sesuaikan nilai `value=x` dari 1-5
+
+*Jika tidak bisa paste di Console, ketik `allow paste` terlebih dahulu
